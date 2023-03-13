@@ -15,6 +15,7 @@ module.exports = {
         },
         'help-suite-theme-config',
         'help-suite-theme-fonts',
-        'help-suite-api-mock'
+        'help-suite-api-mock',
+        'help-suite-plugin-tables'
     ],
 }

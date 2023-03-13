@@ -19,6 +19,7 @@
     "help-suite-theme-config": "^1.0.0",
     "help-suite-theme-fonts": "^1.0.1",
     "help-suite-api-mock": "^1.0.0",
+    "help-suite-plugin-tables": "^1.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   }
