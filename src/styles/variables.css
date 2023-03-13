@@ -1,0 +1,56 @@
+:root {
+    /*--buttons-border-radius: 0px;*/
+    /*--popups-border-radius: var(--buttons-border-radius);*/
+    /*--controls-border-radius: var(--buttons-border-radius);*/
+    /*--dialog-border-radius: var(--buttons-border-radius);*/
+    /*--scrollbar-border-radius: var(--buttons-border-radius);*/
+    /*--logo-border-radius: var(--buttons-border-radius);*/
+    /*--menu-border-radius: var(--buttons-border-radius);*/
+    /*--margin-content: 0px;*/
+
+    /*--color-background: white;*/
+    /*--color-primary: #40B8A8;*/
+    /*--color-secondary: #F5F5F5;*/
+    /*--color-primary-text: #272E5A;*/
+    /*--color-secondary-text: #9A9EB1;*/
+    /*--shadow-global: none;*/
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        /*--color-background: #121212;*/
+        /*--color-primary: #2d756c;*/
+        /*--color-secondary: #212121;*/
+        /*--color-primary-text: rgba(255, 255, 255, 0.87);*/
+        /*--color-secondary-text: #9A9EB1;*/
+        /*--shadow-global: none;*/
+    }
+}
+/*html {*/
+/*    scrollbar-color: var(--color-secondary) var(--color-background);*/
+/*}*/
+/*::-webkit-scrollbar {width: 10px;height: 10px;}*/
+/*::-webkit-scrollbar-thumb {*/
+/*    background-color: var(--color-secondary);*/
+/*    border: 2px solid var(--color-background);*/
+/*    border-radius: var(--scrollbar-border-radius);*/
+/*}*/
+/*::-webkit-scrollbar-track {*/
+/*    background-color: var(--color-background);*/
+/*}*/
+/*::-webkit-scrollbar-corner {*/
+/*    background-color: var(--color-background);*/
+/*}*/
+
+/*html {*/
+/*    font-size: 80%;*/
+/*}*/
+/*@media only screen and (max-width: 834px) {*/
+/*    html {*/
+/*        font-size: 110%;*/
+/*    }*/
+/*}*/
+/*@media only screen and (max-width: 480px) {*/
+/*    html {*/
+/*        font-size: 100%;*/
+/*    }*/
+/*}*/
