@@ -13,9 +13,9 @@ module.exports = {
                 path: `${__dirname}/src/data/tables/`,
             },
         },
-        'help-suite-theme-config',
         'help-suite-theme-fonts',
         'help-suite-api-mock',
-        'help-suite-plugin-tables'
+        'help-suite-plugin-tables',
+        'help-suite-theme-config'
     ],
 }
