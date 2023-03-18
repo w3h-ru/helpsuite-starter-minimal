@@ -18,7 +18,7 @@
     "gatsby-source-filesystem": "^3.15.0",
     "help-suite-api-mock": "^1.0.2",
     "help-suite-plugin-auth": "^0.0.13",
-    "help-suite-plugin-tables": "^1.0.10",
+    "help-suite-plugin-tables": "^1.0.11",
     "help-suite-theme-config": "^1.0.10",
     "help-suite-theme-fonts": "^1.0.3",
     "react": "17.0.1",
